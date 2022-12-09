@@ -19,6 +19,30 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 
 ## Publications
 
+### 2023
+<p><b>CoCoSoDa: Effective Contrastive Learning for Code Search</b> <br>
+<small>
+<i>ICSE2022 <a href="[https://arxiv.org/abs/2107.07112](https://arxiv.org/abs/2204.03293)">[pdf]</a> <a href="todo">[code]</i>
+<br />
+<u>Ensheng Shi</u>, Wenchao Gub, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
+<br /><b>TLNR</b>: We propose CoCoSoDa to effectively utilize contrastive learning for code search via two key factors in contrastive learning: data augmentation and negative samples.
+<br />
+<details>
+  (1)  (2) 
+(3) (4) 
+<summary></summary>
+<ul>
+<li>CoCoSoDa outperforms 14 baselines and especially exceeds CodeBERT, GraphCodeBERT, and UniXcoder by 13.3%, 10.5%, and 5.9% on average MRR scores, respectively.</li>
+<li> The ablation studies show the effectiveness of each component of our approach.
+</li>
+<li>We adapt our techniques to several different pre-trained models such as RoBERTa, CodeBERT, and GraphCodeBERT and observe a significant boost in their performance in code search. </li>
+<li>Our model performs robustly under different hyperparameters. Furthermore, we perform qualitative and quantitative analyses to explore reasons behind the good performance of our model.
+</li>
+</ul>
+</details>
+</small>
+</p>
+
 ### 2022
 <p><b>RACE: Retrieval-augmented Commit Message Generation</b> 
 <br><small>
