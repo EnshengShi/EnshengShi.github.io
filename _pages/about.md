@@ -19,6 +19,28 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 ## Publications
 
 ### 2023
+
+<p><b>Towards Efficient Fine-tuning of Pre-trained Code Models: An Experimental Study and Beyond</b> <br>
+<small>
+<i>ISSTA2023 <a href="https://arxiv.org/abs/2304.05216">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/Telly">[code]</a></i>
+<br />
+<u>Ensheng Shi</u>, Yanlin Wang, Hongyu Zhang, Lun Du, Shi Han, Dongmei Zhang, Hongbin Sun
+<br /><b>TLNR</b>: we conduct an extensive experimental study to explore what happens to layer-wise pre-trained representations and their encoded code knowledge during fine-tuning. We then propose efficient alternatives to fine-tune the large pre-trained code model based on the above findings.
+<br />
+<details>
+<summary></summary>
+<ul>
+<li> lexical, syntactic and structural properties of source code are encoded in the lower, intermediate, and higher layers, respectively, while the semantic property spans across the entire model.</li>
+<li>The process of fine-tuning preserves most of the code properties. Specifically, the basic code properties captured by lower and intermediate layers are still preserved during fine-tuning. Furthermore, we find that only the representations of the top two layers change most during fine-tuning for various downstream tasks. 
+</li>
+<li>Based on the above findings, we propose Telly to efficiently fine-tune pre-trained code models via layer freezing. 
+</li>
+</ul>
+</details>
+</small>
+</p>
+
+
 <p><b>CoCoSoDa: Effective Contrastive Learning for Code Search</b> <br>
 <small>
 <i>ICSE2023 <a href="https://arxiv.org/abs/2204.03293">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/RACE">[code]</a></i>
