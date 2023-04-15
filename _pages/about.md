@@ -22,7 +22,7 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 
 <p><b>Towards Efficient Fine-tuning of Pre-trained Code Models: An Experimental Study and Beyond</b> <br>
 <small>
-<i>ISSTA2023 <a href="https://arxiv.org/abs/2304.05216">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/Telly">[code]</a></i>
+<i>ISSTA2023 (**CCF-A**) <a href="https://arxiv.org/abs/2304.05216">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/Telly">[code]</a></i>
 <br />
 <u>Ensheng Shi</u>, Yanlin Wang, Hongyu Zhang, Lun Du, Shi Han, Dongmei Zhang, Hongbin Sun
 <br /><b>TLNR</b>: we conduct an extensive experimental study to explore what happens to layer-wise pre-trained representations and their encoded code knowledge during fine-tuning. We then propose efficient alternatives to fine-tune the large pre-trained code model based on the above findings.
@@ -43,7 +43,7 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 
 <p><b>CoCoSoDa: Effective Contrastive Learning for Code Search</b> <br>
 <small>
-<i>ICSE2023 <a href="https://arxiv.org/abs/2204.03293">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/RACE">[code]</a></i>
+<i>ICSE2023(**CCF-A**) <a href="https://arxiv.org/abs/2204.03293">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/RACE">[code]</a></i>
 <br />
 <u>Ensheng Shi</u>, Wenchao Gu, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
 <br /><b>TLNR</b>: We propose CoCoSoDa to effectively utilize contrastive learning for code search via two key factors in contrastive learning: data augmentation and negative samples.
