@@ -22,7 +22,7 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 
 <p><b>Towards Efficient Fine-tuning of Pre-trained Code Models: An Experimental Study and Beyond</b> <br>
 <small>
-<i>ISSTA2023 (**CCF-A**) <a href="https://arxiv.org/abs/2304.05216">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/Telly">[code]</a></i>
+<i>ISSTA2023 (<b>CCF-A</b>) <a href="https://arxiv.org/abs/2304.05216">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/Telly">[code]</a></i>
 <br />
 <u>Ensheng Shi</u>, Yanlin Wang, Hongyu Zhang, Lun Du, Shi Han, Dongmei Zhang, Hongbin Sun
 <br /><b>TLNR</b>: we conduct an extensive experimental study to explore what happens to layer-wise pre-trained representations and their encoded code knowledge during fine-tuning. We then propose efficient alternatives to fine-tune the large pre-trained code model based on the above findings.
@@ -43,7 +43,7 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 
 <p><b>CoCoSoDa: Effective Contrastive Learning for Code Search</b> <br>
 <small>
-<i>ICSE2023(**CCF-A**) <a href="https://arxiv.org/abs/2204.03293">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/RACE">[code]</a></i>
+<i>ICSE2023 (<b>CCF-A</b>)<a href="https://arxiv.org/abs/2204.03293">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/RACE">[code]</a></i>
 <br />
 <u>Ensheng Shi</u>, Wenchao Gu, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
 <br /><b>TLNR</b>: We propose CoCoSoDa to effectively utilize contrastive learning for code search via two key factors in contrastive learning: data augmentation and negative samples.
@@ -65,7 +65,7 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 ### 2022
 <p><b>RACE: Retrieval-augmented Commit Message Generation</b> 
 <br><small>
-<i>EMNLP2022 <a href="https://arxiv.org/abs/2203.02700">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/RACE">[code]</a></i>
+<i>EMNLP2022 (<b>CCF-B</b>)<a href="https://arxiv.org/abs/2203.02700">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/RACE">[code]</a></i>
 <br />
 <u>Ensheng Shi</u>, Yanlin Wang, Wei Tao, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
 <br /><b>TLNR</b>: We propose a new retrieval-augmented neural commit message generation method, which treats the retrieved similar commit as an exemplar and leverages it to generate an accurate commit message.  </small>
@@ -74,7 +74,7 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 
 <p><b>A Large-Scale Empirical Study of Commit Message Generation: Models, Datasets and Evaluation</b> 
 <br><small>
-<i>EMSE2022 <a href="https://link.springer.com/article/10.1007/s10664-022-10219-1">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical">[code]</a></i>
+<i>EMSE2022 (<b>CCF-B</b>) <a href="https://link.springer.com/article/10.1007/s10664-022-10219-1">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical">[code]</a></i>
 <br />
  Wei Tao, Yanlin Wang, <u>Ensheng Shi</u>, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
 <br /><b>TLNR</b>: To achieve a better understanding of how the existing approaches perform in solving this problem, this paper conducts a systematic and in-depth analysis of the state-of-the-art models and datasets.</small>
@@ -82,7 +82,7 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 
 <p><b>On the Evaluation of Neural Code Summarization</b> <br>
 <small>
-<i>ICSE2022 <a href="https://arxiv.org/abs/2107.07112">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CodeSumEvaluation">[code]</a><a href="https://zhuanlan.zhihu.com/p/443994857">[blog]</a></i>
+<i>ICSE2022  (<b>CCF-A</b>) <a href="https://arxiv.org/abs/2107.07112">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CodeSumEvaluation">[code]</a><a href="https://zhuanlan.zhihu.com/p/443994857">[blog]</a></i>
 <br />
 <u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Junjie Chen, Shi Han, Hongyu Zhang, Dongmei Zhang, Hongbin Sun 
 <br /><b>TLNR</b>: Some interesting and surprising findings on the evaluated metric, code-preprocessing, and evaluated datasets. Building a shared code summarization toolbox andgiving actionable suggestions on the evaluation of neural code summarization. 
@@ -112,7 +112,7 @@ Some important characteristics of datasets (corpus sizes, data splitting methods
 
 <p><b>CAST: Enhancing Code Summarization with Hierarchical Splitting and Reconstruction of Abstract Syntax Trees</b> 
 <br><small>
-<i>EMNLP2021 <a href="https://aclanthology.org/2021.emnlp-main.332.pdf">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CAST">[code]</a></i>
+<i>EMNLP2021  (<b>CCF-B</b>) <a href="https://aclanthology.org/2021.emnlp-main.332.pdf">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CAST">[code]</a></i>
 <br />
 <u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
 <br /><b>TLNR</b>: Our model hierarchically
@@ -129,7 +129,7 @@ splits and reconstructs ASTs to obtain the better code representation for code s
 
 <p><b>On the Evaluation of Commit Message Generation Models: An Experimental Study</b> 
 <br><small>
-<i>ICSME 2021 <a href="https://ieeexplore.ieee.org/abstract/document/9609189">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical">[code]</a></i>
+<i>ICSME 2021  (<b>CCF-B</b>) <a href="https://ieeexplore.ieee.org/abstract/document/9609189">[pdf]</a> <a href="https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical">[code]</a></i>
 <br />
  Wei tao, Yanlin Wang, <u>Ensheng Shi</u>, Lun Du, Shi Han, Dongmei Zhang, Wenqiang Zhang
 <br /><b>TLNR</b>: We conduct the empirical study on evaluated metrics and existing datasets. We
