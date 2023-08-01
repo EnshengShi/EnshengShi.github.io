@@ -19,7 +19,13 @@ My research areas currently include: **(1) Code Represention Learning; (2) Code 
 ## Publications
 
 ### 2023
-
+<p><b>CoCoAST: Representing Source Code via Hierarchical Splitting and Reconstruction of Abstract Syntax Trees</b> 
+<br><small>
+<i>EMSE  (<b>CCF-B</b>) <a href="">[pdf]</a> <a href="https://github.com/s1530129650/CoCoAST">[code]</a></i>
+<br />
+<u>Ensheng Shi</u>, Yanlin Wang, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
+<br /><b>TLNR</b>: We propose a novel model CoCoAST that hierarchically splits and reconstructs ASTs to comprehensively capture the syntactic and semantic information of code without the loss of AST structural information. We have applied our source code representation to two common program comprehension tasks, code summarization and code search. </small>
+</p>
 
 <p><b>You Augment Me: Exploring ChatGPT-based Data Augmentation for Semantic Code Search</b> <br>
 <small>
