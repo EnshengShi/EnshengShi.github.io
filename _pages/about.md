@@ -204,26 +204,16 @@ Advised by Dongmei Zhang, Shi Han, Zhouyu Fu, & Mengyu Zhou in Software Analytic
 
 ## Awards
 <ul>
-<li>
-2019 Outstanding Graduate Award 
-</li>
-<li>
-2018 Elite Class Scholarship of Institute of Automation, China Academy of Sciences
-</li>
-<li>
-2018 Grateful Scientist Bursary
-</li>
-<li>
-2018 National Scholarship
-</li>
-<li>
-2017 Outstanding Volunteer Award
-</li>
-<li>2017 National  Encouragement Scholarship
-</li>
-<li>
-2016 First Prize of Mathematical Modeling Contest at Provincial Level
-</li>
-<li>2016 National  Encouragement Scholarship
-</li>
+<li> 2023 <a href="https://mp.weixin.qq.com/s/KVGPhr0FDhnDNdrk7sxuag">Outstanding Doctoral Graduate Student</a> (The Highest Honor Awarded to Doctoral Students by Xi'an Jiaotong University)</li>
+<li>2023&2022&2021 Excellent Graduate Student</li>
+<li>2023&2018. National Scholarship</li>
+<li>2019 The Third Prize of Asia and Pacific Mathematical Contest</li>
+<li>2019 Outstanding Graduate Award </li>
+<li>2019 The Honor of " Star of Tomorrow" by MSRA </li>
+<li>2018 Elite Class Scholarship of Institute of Automation, China Academy of Sciences</li>
+<li>2018 Grateful Scientist Bursary</li>
+<li>2017&2016 National  Encouragement Scholarship</li>
+<li>2016 First Prize of Mathematical Modeling Contest at Provincial Level</li>
+<li>2017&2016 Award for Perseverance and Diligence</li>
+<li>2015 The Third Prize of Mathematical Modeling Contest at University Level</li>
 </ul>
